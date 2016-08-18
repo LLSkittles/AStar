@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="36" height="20" tilewidth="32" tileheight="32" nextobjectid="12">
+ <tileset firstgid="1" name="Desert" tilewidth="32" tileheight="32" spacing="1" margin="1" tilecount="48" columns="8">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+  <tile id="9">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="collision" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="collision" type="bool" value="false"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="46">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="47">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="bg" width="36" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy9lcEOgjAMhndS40G56YkRD8CJ7P2fzi1Zk1rb8W9MD18gddJvbQejc278M4FRWrc2PNsbIE50vxXWLRnLbcr0qFEptrhPF+4zKaT4tRItd3B6/1bGDO5R5ujNzLD6QnsNhk+KnSLnyKXDPsiH+oTUx4vYLXKPDPlK1Pjw2qBzy308i9EsPIVPEP97CVLMOmt7LiVH3i/tPVPysVwsH+s8cNB+oT4yP91rtZfQ7w+lX9p61IVyBvftgoD2t8ZHe/7R/PI8tvho/ZNXORuoD0rLvhEf9HvbwwX1kTHtbByZB8RH1qX0zkDnc1Korc+ez9ahJi0+3KlH3l/xBoQzUXU=
+  </data>
+ </layer>
+</map>
